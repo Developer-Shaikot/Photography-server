@@ -17,7 +17,7 @@ app.use(bodyParser.json());
 
 
 app.get('/', (req, res) => {
-  res.send('Hello World! I Am Akash')
+  res.send('Hello World!')
 })
 
 
